@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavBar from "./components/nav-bar";
-// import Home from "./pages/Home";
+import Home from "./pages/home";
 // import Projects from "./pages/Projects";
 // import Experience from "./pages/Experience";
 // import About from "./pages/About";
@@ -12,8 +12,8 @@ function App() {
       <NavBar />
       <div className="content">
         <Routes>
-          {/* <Route path="/" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route index path="/personal_site" element={<Home />} />
+          {/* <Route path="/projects" element={<Projects />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/about" element={<About />} /> */}
         </Routes>

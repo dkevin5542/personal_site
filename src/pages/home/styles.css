@@ -1,0 +1,56 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background: linear-gradient(135deg, #121212, #1f1f1f);
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 700;
+    background: linear-gradient(90deg, #00ddff, #6809ee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: fadeIn 1s ease-in-out;
+}
+
+p {
+    font-size: 50px;
+    margin-top: 10px;
+    background: linear-gradient(90deg, #00ddff, #6809ee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #bbbbbb;
+    opacity: 0.8;
+    animation: slideUp 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+  

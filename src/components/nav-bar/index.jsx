@@ -8,7 +8,7 @@ const NavBar = () => {
 
   return (
     <nav className="navbar">
-      <Link to="/" className="logo">KD</Link>
+      <Link to="/personal_site" className="logo">KD</Link>
       
       {/* Hamburger Menu for Mobile */}
       <button className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>
