@@ -65,7 +65,7 @@ const experiences = [
 const Experience = () => {
   return (
     <div className="experience-container">
-      <h1>Experience Timeline</h1>
+      <h1>My Experiences</h1>
       <VerticalTimeline>
         {experiences.map((exp, index) => (
           <VerticalTimelineElement
