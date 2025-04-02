@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/personal_site/static/css/main.0eadb8ae.css",
-    "main.js": "/personal_site/static/js/main.efebae48.js",
+    "main.css": "/personal_site/static/css/main.d7055638.css",
+    "main.js": "/personal_site/static/js/main.b5fddcbe.js",
     "static/js/453.96cba20d.chunk.js": "/personal_site/static/js/453.96cba20d.chunk.js",
+    "static/media/anime-tracker.png": "/personal_site/static/media/anime-tracker.960feda1cbd174749225.png",
+    "static/media/tetris.png": "/personal_site/static/media/tetris.6c1d1c1f5ed065c43fb2.png",
+    "static/media/sparksbyte.png": "/personal_site/static/media/sparksbyte.c97606900eaa767ca280.png",
+    "static/media/class-catcher.png": "/personal_site/static/media/class-catcher.75503f7739d744a3d9dd.png",
+    "static/media/algorithm-visualizer.png": "/personal_site/static/media/algorithm-visualizer.7c6dcb2076a0f10249af.png",
+    "static/media/chess-bot.png": "/personal_site/static/media/chess-bot.13b0240b6b4fd7c79353.png",
     "index.html": "/personal_site/index.html",
-    "main.0eadb8ae.css.map": "/personal_site/static/css/main.0eadb8ae.css.map",
-    "main.efebae48.js.map": "/personal_site/static/js/main.efebae48.js.map",
+    "main.d7055638.css.map": "/personal_site/static/css/main.d7055638.css.map",
+    "main.b5fddcbe.js.map": "/personal_site/static/js/main.b5fddcbe.js.map",
     "453.96cba20d.chunk.js.map": "/personal_site/static/js/453.96cba20d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eadb8ae.css",
-    "static/js/main.efebae48.js"
+    "static/css/main.d7055638.css",
+    "static/js/main.b5fddcbe.js"
   ]
 }
