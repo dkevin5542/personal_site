@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal_site/static/css/main.d7055638.css",
+    "main.css": "/personal_site/static/css/main.c030d3c4.css",
     "main.js": "/personal_site/static/js/main.b5fddcbe.js",
     "static/js/453.96cba20d.chunk.js": "/personal_site/static/js/453.96cba20d.chunk.js",
     "static/media/anime-tracker.png": "/personal_site/static/media/anime-tracker.960feda1cbd174749225.png",
@@ -10,12 +10,12 @@
     "static/media/algorithm-visualizer.png": "/personal_site/static/media/algorithm-visualizer.7c6dcb2076a0f10249af.png",
     "static/media/chess-bot.png": "/personal_site/static/media/chess-bot.13b0240b6b4fd7c79353.png",
     "index.html": "/personal_site/index.html",
-    "main.d7055638.css.map": "/personal_site/static/css/main.d7055638.css.map",
+    "main.c030d3c4.css.map": "/personal_site/static/css/main.c030d3c4.css.map",
     "main.b5fddcbe.js.map": "/personal_site/static/js/main.b5fddcbe.js.map",
     "453.96cba20d.chunk.js.map": "/personal_site/static/js/453.96cba20d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7055638.css",
+    "static/css/main.c030d3c4.css",
     "static/js/main.b5fddcbe.js"
   ]
 }
