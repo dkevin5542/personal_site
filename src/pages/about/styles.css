@@ -22,13 +22,21 @@
     margin-bottom: 20px;
     margin-top: -10px;
   }
-  
+
+
   .about-text {
-    color: #eeeeee;
     font-size: 18px;
+    margin-top: 10px;
     line-height: 1.7;
     margin-bottom: 15px;
+  
+    background: linear-gradient(90deg, #00ddff, #9405dc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #00ddff; 
   }
+  
+
   
   @media (max-width: 600px) {
     .about-title {

@@ -37,6 +37,10 @@
     color: #00bcd4;
     margin-bottom: 5px;
   }
+
+  .vertical-timeline-element-content h2 {
+    color: #00bcd4;
+}
   
   h3 {
     font-size: 18px;
