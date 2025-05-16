@@ -13,6 +13,18 @@ const importAll = (r) => {
 
   const projects = [
     {
+      title: "JFK Flight Delay Model",
+      technologies: "Python",
+      date: "Feb. 2025 - May. 2025",
+      description: [
+        "Developed a flight delay prediction model using 20+ years of historical weather data to forecast 2024 delays, achieving strong alignment with real-world seasonal trends and delay patterns by comparing multiple ML models (Linear Regression, SVM, KNN) and implementing a Random Forest Regressor for final deployment.",
+        "Utilized Python, pandas, scikit-learn, NumPy, and Matplotlib for data preprocessing, model training, evaluation, and visualization in a fully reproducible Jupyter Notebook pipeline.",
+        "Collaborated in a 3-person team using Agile methodology, conducting weekly stand-ups and sprint planning sessions to iteratively develop, test, and refine the model while ensuring continuous integration of peer feedback."
+      ],
+      image: images["model.png"], 
+      link: "https://github.com/dkevin5542/CS506_Final_Project",
+    },
+    {
         title: "Anime Tracker",
         technologies: "HTML, CSS, Heroku",
         date: "Nov. 2024 - Dec. 2024",
