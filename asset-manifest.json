@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/personal_site/static/css/main.72e07625.css",
-    "main.js": "/personal_site/static/js/main.8816971f.js",
+    "main.js": "/personal_site/static/js/main.59fecd2e.js",
     "static/js/453.96cba20d.chunk.js": "/personal_site/static/js/453.96cba20d.chunk.js",
     "static/media/pfp.JPG": "/personal_site/static/media/pfp.33f518073d5e4f96a1ca.JPG",
     "static/media/pfp2.jpg": "/personal_site/static/media/pfp2.71a0a695e0b77a8985f7.jpg",
     "static/media/anime-tracker.png": "/personal_site/static/media/anime-tracker.960feda1cbd174749225.png",
+    "static/media/model.png": "/personal_site/static/media/model.e5dc46e9f35ddbb8cc5e.png",
     "static/media/tetris.png": "/personal_site/static/media/tetris.6c1d1c1f5ed065c43fb2.png",
     "static/media/sparksbyte.png": "/personal_site/static/media/sparksbyte.c97606900eaa767ca280.png",
     "static/media/class-catcher.png": "/personal_site/static/media/class-catcher.75503f7739d744a3d9dd.png",
@@ -13,11 +14,11 @@
     "static/media/chess-bot.png": "/personal_site/static/media/chess-bot.13b0240b6b4fd7c79353.png",
     "index.html": "/personal_site/index.html",
     "main.72e07625.css.map": "/personal_site/static/css/main.72e07625.css.map",
-    "main.8816971f.js.map": "/personal_site/static/js/main.8816971f.js.map",
+    "main.59fecd2e.js.map": "/personal_site/static/js/main.59fecd2e.js.map",
     "453.96cba20d.chunk.js.map": "/personal_site/static/js/453.96cba20d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72e07625.css",
-    "static/js/main.8816971f.js"
+    "static/js/main.59fecd2e.js"
   ]
 }
